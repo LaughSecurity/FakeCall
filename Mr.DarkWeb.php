@@ -13,13 +13,13 @@ curl_close($ch);
 echo $test."\n";
 }
 echo "-------------------------\n";
-echo "| Created by Emon27     |\n";
-echo "| Team : LaughSec       |\n";
+echo "| Created by Mr.DarkWeb |\n";
+echo "| Team : Team Hacker    |\n";
 echo "| Type : Call Prank     |\n";
-echo "| Contact : 087878811138|\n";
+echo "| Contact : 087*******78|\n";
 echo "| Support by:           |\n";
 echo "| -bocah-programmer.xyz |\n";
-echo "| -LaughSec.ga          |\n";
+
 echo "-------------------------\n";
 echo "Input target : ";
 $no = trim(fgets(STDIN));
